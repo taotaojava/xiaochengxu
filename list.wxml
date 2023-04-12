@@ -1,0 +1,9 @@
+<!--pages/list/list.wxml-->
+<!-- <text>pages/list/list.wxml</text> -->
+<!-- 写结构 -->
+<view class="container1">
+<!-- <view>默认是div盒子</view> -->
+<view>A谢天吉</view>
+<view>B傅驰</view>
+<view>C纪浩然</view>
+</view>
